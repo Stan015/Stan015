@@ -5,7 +5,7 @@
 <p>💞️ Achieving projects and as well contributing and collaborating with other developers out here is a primary goal.</p>
 
 
-<p>📫 How to reach me?: <a href="http://twitter.com/@StanleyAzi">Twitter</a>, <a href="https://www.linkedin.com/in/stanley-azi-475044217/">LinkedIn</a>, azistanley17@gmail.com, <a href="https://www.upwork.com/workwith/stanleyazi">Hire me at Upwork</a></p>
+<p>📫 How to reach me?: <a href="mailto:azistanley17@gmail.com">Gmail</a>, <a href="http://twitter.com/@StanleyAzi">Twitter</a>, <a href="https://www.linkedin.com/in/stanley-azi-475044217/">LinkedIn</a>, <a href="https://www.upwork.com/workwith/stanleyazi">Hire me at Upwork</a></p>
 
 <!---
 Stan015/Stan015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
