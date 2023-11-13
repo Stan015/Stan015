@@ -2,11 +2,11 @@
 
 💡 Fun fact: I'm also a Frontend Engineering Student in the [School of Engineering](https://engineering.altschoolafrica.com/) at AltSchool Africa.
 
-👀 I walk through the path that leads to expert Frontend Development.
-🌱 I'm currently playing around with HTML, CSS and JavaScript, and learning React, Vue and other frameworks and libraries I would need. My awsome UI/Graphic design skills has made the run quite navigable.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-💞️ Achieving projects, contributing and collaborating with other developers out here are my primary goals.
+👀 I walk through the path that leads to expert Frontend Development. <br>
+🌱 I'm currently playing around with HTML, CSS and JavaScript, and learning React, Vue and other frameworks and libraries I would need. My awsome UI/Graphic design skills has made the run quite navigable. <br>
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities. <br>
+💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level). <br>
+💞️ Achieving projects, contributing and collaborating with other developers out here are my primary goals. <br>
 
 📫 How to reach me?: [Gmail](mailto:azistanley17@gmail.com), [Twitter/X](http://twitter.com/@StanleyAzi), [LinkedIn](https://www.linkedin.com/in/stanley-azi-475044217/).
 
