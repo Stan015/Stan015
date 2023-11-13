@@ -5,7 +5,7 @@
 👀 I walk through the path that leads to expert Frontend Development. <br>
 🌱 I'm currently playing around with HTML, CSS and JavaScript, and learning React, Vue and other frameworks and libraries I would need. My awsome UI/Graphic design skills has made the run quite navigable. <br>
 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities. <br>
-💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level). <br>
+💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Entry level). <br>
 💞️ Achieving projects, contributing and collaborating with other developers out here are my primary goals. <br>
 
 📫 How to reach me?: [Gmail](mailto:azistanley17@gmail.com), [Twitter/X](http://twitter.com/@StanleyAzi), [LinkedIn](https://www.linkedin.com/in/stanley-azi-475044217/).
