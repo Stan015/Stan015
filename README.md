@@ -7,7 +7,7 @@
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 💞️ Achieving projects, contributing and collaborating with other developers out here are my primary goals.
 
-📫 How to reach me?: [Gmail](href="mailto:azistanley17@gmail.com), [Twitter/X](href="http://twitter.com/@StanleyAzi"), [LinkedIn](href="https://www.linkedin.com/in/stanley-azi-475044217/").
+📫 How to reach me?: [Gmail](mailto:azistanley17@gmail.com), [Twitter/X](http://twitter.com/@StanleyAzi), [LinkedIn](https://www.linkedin.com/in/stanley-azi-475044217/).
 
 ---
 
