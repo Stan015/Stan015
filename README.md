@@ -1,14 +1,14 @@
-👋 Hi, I’m Stanley Azi, a Computer Engineering undergraduate.
+👋 Hi, I’m Stanley Azi, a Frontend Engineer.
 
-💡 Fun fact: I'm also a Frontend Engineering Student in the [School of Engineering](https://engineering.altschoolafrica.com/) at AltSchool Africa.
+💡 Fun fact: I'm a Frontend Engineering graduate from AltSchool Africa, and also a Computer Engineering undergraduate.
 
 👀 I walk through the path that leads to expert Frontend Development. <br>
-🌱 I'm currently playing around with HTML, CSS and JavaScript, and also learning React, Vue, TypeScript, NextJS and other relevant frameworks and libraries. My exceptional UI/graphic design skills have significantly improved navigability. <br>
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities. <br>
-💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Entry level). <br>
+🌱 I'm currently playing around with HTML, CSS and JavaScript, React, Vue, TypeScript, NextJS, NuxtJS and other relevant frameworks and libraries. My exceptional UI/graphic design skills have significantly improved navigability. <br>
+😊 I’m open to contributing to source projects, hackathons, internships, and entry-level opportunities. <br>
+💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer. <br>
 💞️ My primary goals are achieving projects, contributing to, and collaborating with other developers. <br>
 
-📫 How to reach me?: [Gmail](mailto:azistanley17@gmail.com), [Twitter/X](http://twitter.com/@StanleyAzi), [LinkedIn](https://www.linkedin.com/in/stanley-azi-475044217/).
+📫 How to reach me?: [Gmail](mailto:azistanley17@gmail.com), [Twitter/X](http://twitter.com/@StanleyAzi), [LinkedIn](https://www.linkedin.com/in/stanleyazi/).
 
 ---
 
