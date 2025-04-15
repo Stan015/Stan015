@@ -1,11 +1,11 @@
-👋 Hi, I’m Stanley Azi, a Frontend Engineer.
+👋 Hi, I’m Stanley Azi, a FullStack Engineer.
 
 💡 Fun fact: I'm a Frontend Engineering graduate from AltSchool Africa, and also a Computer Engineering graduate.
 
-👀 I walk through the path that leads to expert Frontend Development. <br>
-🌱 I'm currently playing around with HTML, CSS, JavaScript, TypeScript, React, Vue, NextJS, NuxtJS, Java, Tailwindcss and other relevant frameworks and libraries. My exceptional UI/graphic design skills have significantly improved navigability. <br>
+👀 I walk through the path that leads to expert Frontend and Backend Development. <br>
+🌱 I'm currently playing around with JavaScript, TypeScript, Java, Spring, React, Vue, NextJS, NuxtJS, HTML, CSS, Tailwindcss and other relevant frameworks and libraries. My exceptional UI/graphic design skills have significantly improved navigability. <br>
 😊 I’m open to contributing to source projects, hackathons, internships, contracts, and full-time roles. <br>
-💼 Job interests: Software Engineer, Frontend Engineer, UI Engineer, or Full Stack Engineer. <br>
+💼 Job interests: Software Engineer, Frontend Engineer, UI Engineer, or FullStack Engineer. <br>
 💞️ My primary goals are achieving projects, contributing to, and collaborating with other developers. <br>
 
 📫 How to reach me?: [Gmail](mailto:azistanley17@gmail.com), [Twitter/X](http://twitter.com/@StanleyAzi), [LinkedIn](https://www.linkedin.com/in/stanleyazi/).
